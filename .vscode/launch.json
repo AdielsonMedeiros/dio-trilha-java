@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Contador",
+      "request": "launch",
+      "mainClass": "Contador",
+      "projectName": "Dio Java Backend_8330f7f4"
+    },
+    {
+      "type": "java",
       "name": "ContaTerminal",
       "request": "launch",
       "mainClass": "ContaTerminal",
