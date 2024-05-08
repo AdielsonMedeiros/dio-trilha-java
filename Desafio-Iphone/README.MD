@@ -6,8 +6,7 @@ Este repositório não apenas fornece o código-fonte em Java para as classes e 
 
 📊 Diagrama UML
 Diagrama de Classes
-
-![alt text](image-1.png)
+!alt text
 
 Nesta seção, apresentamos uma explicação detalhada de cada classe representada no diagrama de classe do projeto. Cada classe desempenha um papel específico e contribui para a funcionalidade global do sistema.
 
@@ -22,3 +21,7 @@ A interface AparelhoTelefonico define os métodos para realizar chamadas telefô
 
 NavegadorInternet
 A interface NavegadorInternet define métodos para a navegação na web, como exibirPagina(), adicionarNovaAba() e atualizarPagina(). As classes que implementam essa interface podem atuar como navegadores da Internet.
+
+
+
+
