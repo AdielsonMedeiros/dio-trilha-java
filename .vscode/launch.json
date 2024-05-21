@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Principal",
+      "request": "launch",
+      "mainClass": "Principal",
+      "projectName": "Dio Java Backend_8330f7f4"
+    },
+    {
+      "type": "java",
+      "name": "Contador",
+      "request": "launch",
+      "mainClass": "Contador",
+      "projectName": "Dio Java Backend_8330f7f4"
+    },
+    {
+      "type": "java",
+      "name": "ContaTerminal",
+      "request": "launch",
+      "mainClass": "ContaTerminal",
+      "projectName": "Dio Java Backend_8330f7f4"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/adiel/OneDrive/Área de Trabalho/Dio Java Backend",
+      "program": "c:/Users/adiel/OneDrive/Área de Trabalho/Dio Java Backend/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
